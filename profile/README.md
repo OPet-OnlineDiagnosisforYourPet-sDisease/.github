@@ -14,7 +14,7 @@
 <p align="justify"> Is there a way we can do to assist pet owners in taking care of their pets, addressing the limited availability of veterinarians in certain areas, and the high cost of treatment at animal clinics? </p>
 
 ### *Solution*
-<p align="justify"> We aim to offer a solution to overcome above problem, introducing **OPet** which stands for **Online Diagnosis for Your Pet's Disease**. OPet utilize Supervised Machine Learning and the native Kotlin programming language to develop an application to detect early signs of diseases in pets based on their symptoms. In our app, we will only focus on the dominant pets in Indonesia including cat, fish, bird, and dog. This is not a random choice, it was based on the survey conducted by the Rakuten Insight Center in Indonesia in 2022. </p>
+  <p align="justify"> We aim to offer a solution to overcome above problem, introducing <b>OPet</b> which stands for <b>Online Diagnosis for Your Pet's Disease</b>. OPet utilize Supervised Machine Learning and the native Kotlin programming language to develop an application to detect early signs of diseases in pets based on their symptoms. In our app, we will only focus on the dominant pets in Indonesia including cat, fish, bird, and dog. This is not a random choice, it was based on the survey conducted by the Rakuten Insight Center in Indonesia in 2022. </p>
 
 
 ## <p align="center"> Our Great Team </p>
