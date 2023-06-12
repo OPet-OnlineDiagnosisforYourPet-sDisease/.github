@@ -37,11 +37,11 @@
 - [Dog Skin Disease Classification Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/CameraDogModel) An endpoint for dog skin diseases classification
   
 ### **Cloud Computing**
-- [Dog Symptoms](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/PetSymptomps) An endpoint for 86 dog symptoms disease
-- [Dog Diseases](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/DiseaseDiagnosis) An endpoint for 16 dog diseases along with handling suggestion
-- [Article Feature](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/apiartikel) An endpoint for articles
-- [Map Clinics](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/Map-Clinics) An endpoint for pet clinics
-- [User Community](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/usercommunity) An endpoint for community feature
+- [Dog Symptoms Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/PetSymptomps) An endpoint for 86 dog symptoms disease
+- [Dog Diseases Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/DiseaseDiagnosis) An endpoint for 16 dog diseases along with handling suggestion
+- [Article Feature Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/apiartikel) An endpoint for articles
+- [Map Clinics Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/Map-Clinics) An endpoint for pet clinics
+- [User Community Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/usercommunity) An endpoint for community feature
   
 ### **Mobile Development**
 - []()
