@@ -32,6 +32,7 @@
 
 ## <p align="center"> Repository </p>
 ### **Machine Learning**
+Due to the data scarcity and short period of working prototype, we only focus on one pet which is dog.
 - [Modeling](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/MachineLearning) Notebook of our modeling for classifying dog diseases
 - [Symptom Checker Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/DogModel) An endpoint for predicting dog diseases based on symptoms
 - [Dog Skin Disease Classification Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/CameraDogModel) An endpoint for dog skin diseases classification
