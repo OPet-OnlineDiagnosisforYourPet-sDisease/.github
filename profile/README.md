@@ -32,7 +32,7 @@
 
 ## <p align="center"> Repository </p>
 ### **Machine Learning**
-- [Modeling](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/Machine_Learning) Notebook of our modeling for classifying dog diseases
+- [Modeling](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/MachineLearning) Notebook of our modeling for classifying dog diseases
 - [Symptom Checker Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/DogModel) An endpoint for predicting dog diseases based on symptoms
 - [Dog Skin Disease Classification Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/CameraDogModel) An endpoint for dog skin diseases classification
   
@@ -44,7 +44,7 @@
 - [User Community Endpoint](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/usercommunity) An endpoint for community feature
   
 ### **Mobile Development**
-- []()
+- [Android Implementation](https://github.com/OPet-OnlineDiagnosisforYourPet-sDisease/Opet-Android) The source code of OPet App using kotlin as Programming Language
   
 <p align="right"> Best Wishes <br> C23-PS327 Team </p>
 </details>
